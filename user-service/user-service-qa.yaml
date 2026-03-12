@@ -13,7 +13,7 @@ eureka:
 info:
   app:
     name: "user-service"
-    description: "Ecommerce User Service default profile"
+    description: "Ecommerce User Service qa profile"
     version: "1.0.0"
 
 management:
